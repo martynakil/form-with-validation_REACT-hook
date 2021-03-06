@@ -55,6 +55,8 @@
 
 
 
+
+
 1.
 ![Zrzut ekranu 2021-02-14 o 22 01 36](https://user-images.githubusercontent.com/59742201/107889270-b2cf7680-6f11-11eb-8cf3-ddb1b7a7d433.png)
 
